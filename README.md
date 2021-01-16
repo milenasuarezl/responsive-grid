@@ -8,4 +8,5 @@ It is an example of responsive grid using CSS Grid and flexbox, following the ne
 
 In Css Grid, there is an inner grid for each cell.
 
-![Responsive grid](img\responsive.grid.PNG)
+![Responsive grid](https://raw.githubusercontent.com/milenasuarezl/responsive-grid/main/img/responsive.grid.PNG)
+
